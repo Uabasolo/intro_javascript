@@ -4,9 +4,9 @@ let nombre = 'Darren';
 
 let edad = 25
 
-let  masculino = true // false
+let  masculino = true // fals
 
-const apellidos = "Vargas Ramirez" + " ";
+const apellidos = "Vargas Ramirez" + " ";  
 
 
 const saludo = ` Hola ${apellidos}`; // Template strings
